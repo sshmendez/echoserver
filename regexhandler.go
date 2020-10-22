@@ -1,4 +1,4 @@
-package echoserver
+package regexhandler
 import (
 	"net/http"
 	"regexp"
